@@ -1,0 +1,3 @@
+Note: all current results are in the output cells of linear_probe.ipynb.
+
+When I have the opportunity to use more GPU hours, I will re-run the experiments using the new repo structure and the results will appear here.

@@ -1,0 +1,6 @@
+torch>=1.13
+transformers>=4.30
+scikit-learn
+numpy
+tqdm
+typing-extensions

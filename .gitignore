@@ -1,0 +1,8 @@
+# pycache
+**/__pycache__/
+*.py[cod]
+# Jupyter Notebook checkpoints
+**/.ipynb_checkpoints/
+# Data files
+data/linear_probe_results/activations/
+data/linear_probe_results/regression/

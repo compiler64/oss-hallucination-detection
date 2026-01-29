@@ -1,0 +1,5 @@
+
+template
+"write a minimal LaTeX snippet that {task}."
+"provide a short LaTeX example that {task}."
+"implement a tiny LaTeX macro which {task} and show a one-line demo."

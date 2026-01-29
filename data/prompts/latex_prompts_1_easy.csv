@@ -1,0 +1,6 @@
+prompt
+"write a minimal LaTeX document that renders a 3x3 matrix and highlights the diagonal."
+"implement a LaTeX macro named \\\boldcaps that capitalizes and bolds its argument and demonstrate usage."
+"create a LaTeX article with title, author, abstract and a single centered figure using standard packages."
+"draw a simple electrical circuit diagram with resistors and capacitors using TikZ and label components."
+"produce a Beamer slide with a title, a subtitle, and a centered bullet list of three items."

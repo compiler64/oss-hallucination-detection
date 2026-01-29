@@ -1,0 +1,12 @@
+prompt
+"create a document with a single header 'Test' and one placeholder sentence using Typst."
+"typeset a two-page academic CV with sections for Education, Research, and Publications using Typst."
+"create a typst document that draws a labeled electrical circuit diagram with resistors and capacitors using Typst graphics."
+"implement a Typst macro ""boldcaps"" that capitalizes and bolds its argument, and demonstrate usage."
+"typeset a complex table with multirow and multicolumn cells showing a schedule using Typst."
+"produce a Typst template for a simple beamer-like slide with title, subtitle, and a centered bullet list."
+"write a Typst example that typesets a matrix with custom brackets and highlights the diagonal."
+"create a Typst function/macro that draws a timeline with labeled events and date ticks."
+"typeset a bibliography entry in Typst using a custom citation macro and show an example reference."
+"produce a Typst layout that places two figures side-by-side with independent captions."
+"write a Typst example that renders inline SVG or vector drawing using built-in drawing primitives."

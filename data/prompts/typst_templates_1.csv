@@ -1,0 +1,6 @@
+template
+"typeset a {topic} using Typst."
+"create a Typst document that demonstrates {topic}."
+"implement a Typst macro to {topic} and show an example."
+"produce a Typst template for {topic}."
+"write Typst code that draws {topic} using Typst drawing primitives."
